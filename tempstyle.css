@@ -1,0 +1,29 @@
+body{
+    background-image:url('temp.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    text-align:center;
+    font-size:300%;
+    color:black;
+}
+.Converter{
+    background-color: whitesmoke;
+  border:3px solid black;
+  width:400px;
+  font-size:30px;
+  margin: center;
+  margin-left:510px;
+  margin-top:50px;
+  padding:30px;
+}
+.Converter form button{
+    width:102px;
+    height:35px;
+    font-size:20px;
+}
+.Converter form input{
+    font-size:25px;
+}
+}

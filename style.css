@@ -1,0 +1,45 @@
+body{
+    background-image:url('back.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.intro h5{
+    color:blanchedalmond;
+    font-size: 350%;
+    font-family:Calibri Light;
+}
+.intro h3{
+    color:whitesmoke;
+    font-size: 400%;
+    float:left;
+    margin-top:5%;
+    margin-left: 25%;
+    font-family:Calibri Light;
+}
+.intro p{
+    color:rgb(213, 106, 106);
+    float:left;
+    margin-top:0.5px;
+    margin-left: 25%;
+    font-size: 150%;
+    font-family:Calibri Light;
+}
+.menu li{
+    display:inline-block;
+    list-style-type: none;
+}
+.menu li a{
+    font-size:150%;
+    color:whitesmoke;
+    
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.menu li a:hover {
+  background-color:grey;
+}
+.menu li a:after{
+    content: "";
+    position: absolute;
+    left: 0;
+}
